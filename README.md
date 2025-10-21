@@ -13,10 +13,9 @@
 ---
 
 ### 🏆 Certifications & Achievements
-✅ Apache JMeter Software Performance Testing Certification
-✅ Selenium WebDriver with Java Certification  
-✅ API Testing with Postman & RestAssured  
-
+✅ Deep Learning with PyTorch : Object Localization
+✅ The Complete Agentic AI Engineering Course (2025)
+✅ Artificial Intelligence and Customer Experience Awareness
 ---
 
 ### 📊 GitHub Stats
