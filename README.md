@@ -13,8 +13,11 @@
 ---
 
 ### 🏆 Certifications & Achievements
+
 ✅ Deep Learning with PyTorch : Object Localization
+
 ✅ The Complete Agentic AI Engineering Course (2025)
+
 ✅ Artificial Intelligence and Customer Experience Awareness
 
 ---
