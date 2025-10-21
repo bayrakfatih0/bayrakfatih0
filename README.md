@@ -1,7 +1,7 @@
 ## 🌟 Welcome to My GitHub Profile!
 
 ### 🚀 About Me
-👨‍💻 I am a **QA Engineer** dedicated to ensuring software quality through **test automation, API testing, and CI/CD integration**. Passionate about **building efficient testing pipelines** and enhancing software reliability.
+👨‍💻 I am an AI Developer dedicated to building and deploying intelligent machine learning and deep learning solutions. Passionate about developing scalable AI systems, optimizing model performance, and integrating LLMs, RAG pipelines, and AI-powered applications into real-world workflows.
 
 ---
 
